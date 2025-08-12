@@ -1,3 +1,16 @@
 header{
-    background-color: rgb(137, 60, 209);
+    background-color: antiquewhite;
+}
+
+#produtos{
+    background-color: aqua;
+    height: 700px;
+}
+#parceiros{
+    background-color: turquoise;
+    height: 500px;
+}
+#historia{
+    background-color: lawngreen;
+    height: 300px;
 }
